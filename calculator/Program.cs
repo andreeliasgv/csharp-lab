@@ -78,7 +78,14 @@ namespace Calculator
                     resultado = numero1 * numero2;
                     break;
                 case 4:
-                    resultado = numero1 / numero2;
+
+                    if (numero2 == 0)
+                    {
+                        Console.WriteLine("Erro: Divisão por zero não é permitida!");
+                        return;
+                    }
+                    
+            resultado = numero1 / numero2;
                     break;
                 default:
                     Console.WriteLine("Operação inválida. Por favor, selecione uma operação válida!");
