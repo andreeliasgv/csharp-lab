@@ -20,9 +20,11 @@ Aqui mantenho exercícios, desafios e mini-projetos desenvolvidos durante meu ap
 - Calculator
 - Grade System
 - Multiplication Table
-- ATM Simulator
-- Voting System
-- Student Report
+- GradeAverage
+- NumberCounter
+- NumberSum
+- MaxMin
+- GuessingGame
 
 ## Objetivo
 
