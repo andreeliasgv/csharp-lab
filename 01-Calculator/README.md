@@ -70,13 +70,13 @@ dotnet --version
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/andreeliasgv/Calculator.git
+git clone https://github.com/andreeliasgv/csharp-lab.git
 ```
 
 ### Entrar na pasta do projeto
 
 ```bash
-cd Calculator
+cd csharp-lab/Calculator
 ```
 
 ### Executar

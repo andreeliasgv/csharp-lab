@@ -63,13 +63,13 @@ dotnet --version
 Clone o repositório:
 
 ```bash
-git clone https://github.com/andreeliasgv/GradeSystem.git
+git clone https://github.com/andreeliasgv/csharp-lab.git
 ```
 
 Acesse a pasta:
 
 ```bash
-cd GradeSystem
+cd csharp-lab/GradeSystem
 ```
 
 Execute:
