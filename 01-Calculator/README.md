@@ -70,7 +70,7 @@ dotnet --version
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/Calculator.git
+git clone https://github.com/andreeliasgv/Calculator.git
 ```
 
 ### Entrar na pasta do projeto
